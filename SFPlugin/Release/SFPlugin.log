@@ -1,0 +1,8 @@
+﻿X:\Visual Studio 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  main.cpp
+X:\SAMP Medium PC by chapo\SAMPFUNCS\ARZGangRemover\SFPlugin\main.cpp(42,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+X:\SAMP Medium PC by chapo\SAMPFUNCS\ARZGangRemover\SFPlugin\main.cpp(51,36): warning C4018: <: несоответствие типов со знаком и без знака
+X:\SAMP Medium PC by chapo\SAMPFUNCS\ARZGangRemover\SFPlugin\main.cpp(68,33): warning C4018: <=: несоответствие типов со знаком и без знака
+X:\SAMP Medium PC by chapo\SAMPFUNCS\ARZGangRemover\SFPlugin\main.cpp(99,39): warning C4018: <: несоответствие типов со знаком и без знака
+X:\SAMP Medium PC by chapo\SAMPFUNCS\ARZGangRemover\SFPlugin\main.cpp(42): warning C4700: использована неинициализированная локальная переменная "Full"
+  SFPlugin.vcxproj -> X:\SAMP Medium PC by chapo\SAMPFUNCS\SFPlugin.sf
